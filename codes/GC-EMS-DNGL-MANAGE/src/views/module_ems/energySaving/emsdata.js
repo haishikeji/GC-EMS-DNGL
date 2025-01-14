@@ -1,0 +1,1 @@
+export const emsdata = require('./emsdata.json');
